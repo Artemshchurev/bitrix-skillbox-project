@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="88e23d15-31f0-4551-a846-67e276ed4206" name="skillbox" url="http://skillbox.tw1.ru">
+        <fileTransfer host="92.53.96.129" port="22" rootFolder="/home/c/cw36614/Skillbox/public_html/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
