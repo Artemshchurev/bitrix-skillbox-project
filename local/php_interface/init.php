@@ -18,6 +18,9 @@ require_once(__DIR__ . '/me/class/SoapClientLogging.php');
 #класс для подключению к soap
 require_once(__DIR__ . '/me/class/SoapConnect.php');
 
+#Класс с заполнением HL блоков
+require_once (__DIR__ . '/me/class/BitrixHBFilling.php');
+
 #---------------------------------------------------------------
 #ДАЛЕЕ ПОДКЛЮЧАЕМ ВСЕ, ЧТО ОТНОСИТСЯ К КОНКРЕТНО ЭТОМУ ПРОЕКТУ
 
