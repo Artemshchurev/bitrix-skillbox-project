@@ -24,6 +24,20 @@ require_once (__DIR__ . '/me/class/BitrixHBFilling.php');
 #---------------------------------------------------------------
 #ДАЛЕЕ ПОДКЛЮЧАЕМ ВСЕ, ЧТО ОТНОСИТСЯ К КОНКРЕТНО ЭТОМУ ПРОЕКТУ
 
+# события каталога
+AddEventHandler("iblock", "OnBeforeIBlockElementAdd", Array("CatalogEventHandler", "OnBeforeIBlockElementAddHandler"));
+
+class CatalogEventHandler
+{
+    // Запрет наличия "Кактус" в названии
+    function OnBeforeIBlockElementAddHandler(&$arFields) {
+        if (stripos($arFields['NAME'], 'кактус') !== false) {
+            global $APPLICATION;
+            $APPLICATION->throwException("Кактус в названии недопустим");
+            return false;
+        }
+    }
+}
 #констаны
 require_once(__DIR__ . '/skillbox/constant.php');
 

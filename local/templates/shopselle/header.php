@@ -156,7 +156,7 @@ $_asset->addJs(CUtil::GetAdditionalFileURL(SITE_TEMPLATE_PATH . '/js/application
         </div>
         <div class="wrapper header-nav">
             <div class="container">
-                <a href="#" class="logo" itemprop="url">
+                <a href="/" class="logo" itemprop="url">
                     <img src="<?=SITE_TEMPLATE_PATH?>/images/logo.png" alt="" itemprop="logo">
                     <meta itemprop="name" content="Shopselle">
                     <meta itemprop="address" content="Москва">
@@ -176,6 +176,14 @@ $_asset->addJs(CUtil::GetAdditionalFileURL(SITE_TEMPLATE_PATH . '/js/application
                         "MENU_CACHE_USE_GROUPS" => "Y",
                         "ROOT_MENU_TYPE" => "mytop",
                         "USE_EXT" => "N"
+                    )
+                );?>
+
+                <?$APPLICATION->IncludeComponent(
+                    'artem.skillbox:geo_locator',
+                    '',
+                    Array(
+                        'IBLOCK_ID' => 7
                     )
                 );?>
 
@@ -239,3 +247,47 @@ $_asset->addJs(CUtil::GetAdditionalFileURL(SITE_TEMPLATE_PATH . '/js/application
             </div>
         </div>
     </header>
+
+    <div class="content <?= SKILLBOX_SKIP_BREADCRUMPS === true ? "home" : "" ?>">
+
+        <? if (SKILLBOX_SHOW_PRODUCT_MAP === true): ?>
+            <div class="wrapper title-block">
+                <div class="container">
+                    <h1 class="catalog">Карта товара</h1>
+
+                    <ul class="crumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+                        <li itemprop="itemListElement" itemscope
+                            itemtype="http://schema.org/ListItem">
+                            <a href="#" itemprop="item">
+                                <span itemprop="name">Главная</span>
+                            </a>
+                            <meta itemprop="position" content="1" />
+                        </li>
+                        <li itemprop="itemListElement" itemscope
+                            itemtype="http://schema.org/ListItem">
+                            <a href="#" itemprop="item">
+                                <span itemprop="name">Магазин</span>
+                            </a>
+                            <meta itemprop="position" content="2" />
+                        </li>
+                        <li itemprop="itemListElement" itemscope
+                            itemtype="http://schema.org/ListItem">
+                            <a href="#" itemprop="item">
+                                <span itemprop="name">Ноутбуки</span>
+                            </a>
+                            <meta itemprop="position" content="3" />
+                        </li>
+                        <li itemprop="itemListElement" itemscope
+                            itemtype="http://schema.org/ListItem">
+                            <a href="#" itemprop="item">
+                                <span itemprop="name">Карта товара</span>
+                            </a>
+                            <meta itemprop="position" content="4" />
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        <?endif;?>
+
+        <!--Основной контент-->
+        <main class="container">

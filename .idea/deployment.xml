@@ -8,8 +8,8 @@
             <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
           </mappings>
           <excludedPaths>
-            <excludedPath path="/bitrix" />
             <excludedPath path="/upload" />
+            <excludedPath path="/bitrix" />
           </excludedPaths>
         </serverdata>
       </paths>

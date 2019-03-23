@@ -1,19 +1,21 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
 $APPLICATION->SetTitle("Test");
-?>Test<?$APPLICATION->IncludeComponent(
-	"bitrix:menu",
+?><?$APPLICATION->IncludeComponent(
+	"bitrix:sale.location.selector.search",
 	"",
 	Array(
-		"ALLOW_MULTI_SELECT" => "N",
-		"CHILD_MENU_TYPE" => "left",
-		"DELAY" => "N",
-		"MAX_LEVEL" => "1",
-		"MENU_CACHE_GET_VARS" => array(""),
-		"MENU_CACHE_TIME" => "3600",
-		"MENU_CACHE_TYPE" => "N",
-		"MENU_CACHE_USE_GROUPS" => "Y",
-		"ROOT_MENU_TYPE" => "mytop",
-		"USE_EXT" => "N"
+		"CACHE_TIME" => "36000000",
+		"CACHE_TYPE" => "A",
+		"CODE" => "",
+		"FILTER_BY_SITE" => "N",
+		"ID" => "",
+		"INITIALIZE_BY_GLOBAL_EVENT" => "",
+		"INPUT_NAME" => "LOCATION",
+		"JS_CALLBACK" => "",
+		"JS_CONTROL_GLOBAL_ID" => "",
+		"PROVIDE_LINK_BY" => "id",
+		"SHOW_DEFAULT_LOCATIONS" => "N",
+		"SUPPRESS_ERRORS" => "N"
 	)
 );?><br><? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>

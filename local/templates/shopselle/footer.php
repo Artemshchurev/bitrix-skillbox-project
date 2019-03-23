@@ -1,3 +1,6 @@
+</main>
+</div>
+
 </div>
 
 <!--Footer-->

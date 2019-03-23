@@ -1,5 +1,24 @@
 <?php
 $arUrlRewrite = array(
+
+    10 =>
+        array(
+            'CONDITION' => '#^/catalog_new/([A-Za-z0-9_-]+)/item/([A-Za-z0-9_-]+)/[?]{0,1}(.*)#',
+            'RULE' => 'SECTION_CODE=$1&ELEMENT_CODE=$2',
+            'ID' => '',
+            'PATH' => '/catalog_new/detail.php',
+            'SORT' => 100,
+        ),
+
+    9 =>
+        array(
+            'CONDITION' => '#^/catalog_new/([A-Za-z0-9_-]+)[?]{0,1}(.*)#',
+            'RULE' => 'SECTION_CODE=$1',
+            'ID' => '',
+            'PATH' => '/catalog_new/index.php',
+            'SORT' => 100,
+        ),
+
     1 =>
         array(
             'CONDITION' => '#^/online/([\\.\\-0-9a-zA-Z]+)(/?)([^/]*)#',

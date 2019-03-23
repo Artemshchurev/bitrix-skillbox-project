@@ -2,51 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="096d569d-6d23-4c21-8c47-8dcecc16658e" name="Default" comment="StartProject">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.mytop.menu.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/dev/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/php_interface/me/class/BitrixHBFilling.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/.styles.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/menu/main_top/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/css/application.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/description.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/footer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/header.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/discount.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/fb-login.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/line-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/map-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/new.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/sale.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/social-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/star.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/top.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/images/vk-login.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/js/application.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/banner.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/footer-logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/mc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/menu-new.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/menu-top.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/payoneer.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/paypal.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/product-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/product-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/product-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/skrill.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/slide-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/slide-txt-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/temp/visa.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/template_styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/skillbox/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog_new/detail.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog_new/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lk/personal/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/.description.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/.parameters.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/class.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/templates/.default/template.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/.description.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/.parameters.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/class.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/templates/.default/template.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/main.profile/personal_page/template.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order_2/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order_2/template.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation/skillbox/lang/en/template.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation/skillbox/lang/ru/template.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation/skillbox/template.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/skillbox/order/index.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/local/dev/debug.php" afterPath="$PROJECT_DIR$/local/dev/debug.php" />
-      <change beforePath="$PROJECT_DIR$/local/integration/importFromXml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/local/dev/index.php" afterPath="$PROJECT_DIR$/local/dev/index.php" />
+      <change beforePath="$PROJECT_DIR$/local/html/index.html" afterPath="$PROJECT_DIR$/local/html/index.html" />
       <change beforePath="$PROJECT_DIR$/local/php_interface/init.php" afterPath="$PROJECT_DIR$/local/php_interface/init.php" />
-      <change beforePath="$PROJECT_DIR$/local/php_interface/me/autoloadBxClass.php" afterPath="$PROJECT_DIR$/local/php_interface/me/autoloadBxClass.php" />
+      <change beforePath="$PROJECT_DIR$/local/php_interface/skillbox/autoloadProjectClass.php" afterPath="$PROJECT_DIR$/local/php_interface/skillbox/autoloadProjectClass.php" />
+      <change beforePath="$PROJECT_DIR$/local/php_interface/skillbox/class/Catalog.php" afterPath="" />
       <change beforePath="$PROJECT_DIR$/local/php_interface/skillbox/constant.php" afterPath="$PROJECT_DIR$/local/php_interface/skillbox/constant.php" />
+      <change beforePath="$PROJECT_DIR$/local/templates/shopselle/footer.php" afterPath="$PROJECT_DIR$/local/templates/shopselle/footer.php" />
+      <change beforePath="$PROJECT_DIR$/local/templates/shopselle/header.php" afterPath="$PROJECT_DIR$/local/templates/shopselle/header.php" />
+      <change beforePath="$PROJECT_DIR$/skillbox/index.php" afterPath="$PROJECT_DIR$/skillbox/index.php" />
+      <change beforePath="$PROJECT_DIR$/urlrewrite.php" afterPath="$PROJECT_DIR$/urlrewrite.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,55 +43,111 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="false" />
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/dev/index.php">
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="18" selection-end-column="4" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/local/templates/shopselle/header.php">
+      <file leaf-file-name="class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="179" column="20" lean-forward="false" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
+            <state relative-caret-position="500">
+              <caret line="66" column="5" lean-forward="false" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/html/index.html">
+      <file leaf-file-name="load-cities.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/load-cities.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="145" column="58" lean-forward="true" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="58" />
-              <folding>
-                <element signature="n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cidr_optim.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/cidr_optim.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2403975">
+              <caret line="160265" column="61" lean-forward="false" selection-start-line="160265" selection-start-column="61" selection-end-line="160265" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cities.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/cities.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6105">
+              <caret line="407" column="83" lean-forward="false" selection-start-line="407" selection-start-column="80" selection-end-line="407" selection-end-column="83" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>SECTION_ID</find>
-      <find>Голливуд</find>
-      <find>logo</find>
-      <find>src</find>
-      <find>cart-icon</find>
-      <find>корзина</find>
-      <find>bx-hdr-profile</find>
-      <find>bx-basket-block</find>
-      <find>&lt;meta itemprop=&quot;address&quot; content=&quot;Москва&quot;&gt;</find>
-      <find>cart</find>
-      <find>мос</find>
+      <find>PRODUCTS_QTY</find>
+      <find>$sortByParam</find>
+      <find>btn btn-default</find>
+      <find>basket</find>
+      <find>buy</find>
+      <find>HIDE_S</find>
+      <find>img</find>
+      <find>quantity</find>
+      <find>arrFilter</find>
+      <find>code</find>
+      <find>уже</find>
+      <find>банковс</find>
+      <find>de</find>
+      <find>d</find>
+      <find>orderF</find>
+      <find>sign</find>
+      <find>120</find>
+      <find>12</find>
+      <find>user_div_reg</find>
+      <find>prolog</find>
+      <find>main_page</find>
+      <find>geo_loca</find>
+      <find>владивос</find>
+      <find>3650506751794</find>
+      <find>RU</find>
+      <find>RU\s+794</find>
+      <find>3650506632</find>
+      <find>794</find>
+      <find>3650506</find>
+      <find>2988482828</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,21 +156,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="&lt;88e23d15-31f0-4551-a846-67e276ed4206&gt;/bitrix/.settings.php" />
-        <option value="$PROJECT_DIR$/local/integration/importFromXml.php" />
         <option value="$PROJECT_DIR$/local/php_interface/me/autoloadBxClass.php" />
-        <option value="$PROJECT_DIR$/local/php_interface/skillbox/constant.php" />
-        <option value="$PROJECT_DIR$/local/php_interface/init.php" />
         <option value="$PROJECT_DIR$/local/php_interface/me/class/BitrixHBFilling.php" />
         <option value="$PROJECT_DIR$/local/dev/debug.php" />
-        <option value="$PROJECT_DIR$/local/templates/shopselle/footer.php" />
-        <option value="$PROJECT_DIR$/local/dev/index.php" />
-        <option value="$PROJECT_DIR$/skillbox/index.php" />
         <option value="$PROJECT_DIR$/.mytop.menu.php" />
         <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/menu/main_top/template.php" />
         <option value="&lt;88e23d15-31f0-4551-a846-67e276ed4206&gt;/local/templates/shopselle/header.php" />
         <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.basket.basket.line/basket_link/top_template.php" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/.description.php" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/.parameters.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/footer.php" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/class.php" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/templates/.default/template.php" />
+        <option value="$PROJECT_DIR$/local/html/index.html" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/class.php" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/templates/.default/template.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/skillbox/index.php" />
+        <option value="$PROJECT_DIR$/catalog_new/calling components" />
+        <option value="$PROJECT_DIR$/local/php_interface/skillbox/constant.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.section/main/result_modifier.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation/.default/template.php" />
+        <option value="$PROJECT_DIR$/urlrewrite.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation/skillbox/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.section/main/script.js" />
+        <option value="$PROJECT_DIR$/catalog_new/detail.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.section/main/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.smart.filter/left_main/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.smart.filter/catalog_cothes_filter/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.element/detail/template.php" />
+        <option value="$PROJECT_DIR$/catalog_new/index.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.smart.filter/catalog_clothes_filter/template.php" />
+        <option value="$PROJECT_DIR$/skillbox/order/index.php" />
+        <option value="$PROJECT_DIR$/local/dev/index.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order_2/script.js" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order_2/template.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/skillbox/autoloadProjectClass.php" />
+        <option value="&lt;88e23d15-31f0-4551-a846-67e276ed4206&gt;/bitrix/php_interface/dbconn.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/skillbox/class/User.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/skillbox/events.php" />
+        <option value="$PROJECT_DIR$/lk/personal/index.php" />
+        <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/main.profile/personal_page/template.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/skillbox/class/Catalog.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/init.php" />
+        <option value="$PROJECT_DIR$/local/integration/location.php" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo.locator/class.php" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo.locator/templates/.default/template.php" />
         <option value="$PROJECT_DIR$/local/templates/shopselle/header.php" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/cidr_optim.txt" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/class.php" />
+        <option value="$PROJECT_DIR$/scripts/load-cities.php" />
       </list>
     </option>
   </component>
@@ -177,7 +256,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -193,6 +274,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,70 +291,38 @@
               <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
               <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shopselle" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shopselle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
               <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shopselle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="artem.skillbox" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
               <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shopselle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sale.basket.basket.line" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="artem.skillbox" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="geo_locator" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
               <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shopselle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sale.basket.basket.line" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="basket_link" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scripts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -282,9 +332,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/local/components/artem.skillbox" />
+      <recent name="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax" />
       <recent name="$PROJECT_DIR$/local/templates/shopselle" />
       <recent name="$PROJECT_DIR$/local/templates/shopselle/js" />
       <recent name="$PROJECT_DIR$/local/templates/shopselle/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation" />
+      <recent name="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview" />
+      <recent name="$PROJECT_DIR$/local/components/artem.skillbox" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -333,7 +391,55 @@
       <workItem from="1537666877907" duration="9498000" />
       <workItem from="1538814172143" duration="1511000" />
       <workItem from="1539952606116" duration="120000" />
-      <workItem from="1540198093390" duration="10575000" />
+      <workItem from="1540198093390" duration="10693000" />
+      <workItem from="1540340747357" duration="235000" />
+      <workItem from="1540374557943" duration="1015000" />
+      <workItem from="1540384750838" duration="4390000" />
+      <workItem from="1540467717773" duration="3602000" />
+      <workItem from="1540510433683" duration="979000" />
+      <workItem from="1541812512268" duration="7050000" />
+      <workItem from="1544319831993" duration="7803000" />
+      <workItem from="1544347718909" duration="6161000" />
+      <workItem from="1544446593252" duration="1661000" />
+      <workItem from="1544530307248" duration="2636000" />
+      <workItem from="1544616088315" duration="2496000" />
+      <workItem from="1544847918066" duration="8677000" />
+      <workItem from="1544926630661" duration="327000" />
+      <workItem from="1544942093998" duration="675000" />
+      <workItem from="1544942816836" duration="415000" />
+      <workItem from="1544943258787" duration="3004000" />
+      <workItem from="1545728067555" duration="4555000" />
+      <workItem from="1547637798814" duration="565000" />
+      <workItem from="1547644995629" duration="852000" />
+      <workItem from="1547647045280" duration="510000" />
+      <workItem from="1547968657704" duration="6269000" />
+      <workItem from="1547988872147" duration="745000" />
+      <workItem from="1548072857179" duration="6829000" />
+      <workItem from="1548852244219" duration="10000" />
+      <workItem from="1549278433279" duration="769000" />
+      <workItem from="1549364818932" duration="1578000" />
+      <workItem from="1549776327681" duration="51000" />
+      <workItem from="1550060412941" duration="1864000" />
+      <workItem from="1550236702131" duration="715000" />
+      <workItem from="1550312940930" duration="2120000" />
+      <workItem from="1550362930510" duration="3406000" />
+      <workItem from="1550400084420" duration="1019000" />
+      <workItem from="1550404448559" duration="917000" />
+      <workItem from="1550409513268" duration="670000" />
+      <workItem from="1550484619660" duration="779000" />
+      <workItem from="1550747324318" duration="1911000" />
+      <workItem from="1551177451519" duration="311000" />
+      <workItem from="1551877107379" duration="496000" />
+      <workItem from="1551960426104" duration="2379000" />
+      <workItem from="1552137710460" duration="279000" />
+      <workItem from="1552173437032" duration="161000" />
+      <workItem from="1552192393572" duration="666000" />
+      <workItem from="1552299808061" duration="4267000" />
+      <workItem from="1552307042937" duration="4784000" />
+      <workItem from="1552390243628" duration="1534000" />
+      <workItem from="1552824314542" duration="305000" />
+      <workItem from="1552985600623" duration="354000" />
+      <workItem from="1553297948087" duration="491000" />
     </task>
     <task id="LOCAL-00001" summary="StartProject">
       <created>1527384608946</created>
@@ -346,7 +452,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50455000" />
+    <option name="totallyTimeSpent" value="153860000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -362,16 +468,15 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19951633" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21160822" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17310444" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17310444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19830714" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26609442" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25035766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -380,6 +485,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -423,356 +529,334 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/constant.php">
+    <entry file="file://$PROJECT_DIR$/local/dev/debug.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="607">
+          <caret line="74" column="10" lean-forward="true" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/integration/data/data.xml">
+    <entry file="file://$PROJECT_DIR$/catalog_new/calling components" />
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.section/main/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.section/main/script.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/constant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urlrewrite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation/skillbox/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.section/main/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/constant.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/html/product-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="264" column="16" lean-forward="false" selection-start-line="229" selection-start-column="10" selection-end-line="264" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.element/detail/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_new/detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="121" column="36" lean-forward="false" selection-start-line="121" selection-start-column="36" selection-end-line="121" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/html/catalog-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3840">
+          <caret line="1001" column="22" lean-forward="false" selection-start-line="253" selection-start-column="12" selection-end-line="1001" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.section/main/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="52" lean-forward="false" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.smart.filter/catalog_clothes_filter/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5955">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order/script.map.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/init.php">
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order/order_ajax.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/integration/data/data.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/dev/debug.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/dev/getAdmin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/me/class/SoapClientLogging.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/me/autoloadBxClass.php">
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order_2/lang/en/template.php" />
+    <entry file="file://$PROJECT_DIR$/skillbox/order/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/integration/data/data.xml">
+    <entry file="file://$PROJECT_DIR$/local/html/order.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        <state relative-caret-position="4860">
+          <caret line="378" column="26" lean-forward="false" selection-start-line="317" selection-start-column="18" selection-end-line="378" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/dev/debug.php">
+    <entry file="file://$PROJECT_DIR$/local/dev/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="20" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/dev/getAdmin.php">
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order_2/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="615">
+          <caret line="84" column="18" lean-forward="false" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/me/autoloadBxClass.php">
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order_2/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/me/class/SoapClientLogging.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/integration/data/data.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/integration/importFromXml.php" />
-    <entry file="file://$PROJECT_DIR$/local/integration/importFromXml.php" />
-    <entry file="file://$PROJECT_DIR$/local/integration/importFromXml.php" />
-    <entry file="file://$PROJECT_DIR$/local/php_interface/me/class/SoapClientLogging.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/me/class/SoapClientLogging.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/soap/soap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SimpleXML/SimpleXML.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-963">
-          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/integration/importFromXml.php" />
-    <entry file="file://$PROJECT_DIR$/local/dev/getAdmin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/me/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="15">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/autoloadProjectClass.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/me/autoloadBxClass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/me/class/SoapConnect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-845">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/class/Catalog.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="105">
+          <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/autoloadHighLoadIBlock.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/me/class/SoapClientLogging.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/me/class/BitrixHBFilling.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/constant.php">
+    <entry file="file://$PROJECT_DIR$/catalog_new/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="31" />
+          <caret line="7" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="190" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/dev/debug.php">
+    <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/class/User.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/main.profile/personal_page/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="10" lean-forward="true" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+        <state relative-caret-position="150">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/integration/data/data.xml">
+    <entry file="file://$PROJECT_DIR$/lk/personal/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="114" column="59" lean-forward="false" selection-start-line="114" selection-start-column="56" selection-end-line="114" selection-end-column="59" />
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/.section.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/description.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/js/application.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/css/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.mytop.menu.php">
+    <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/events.php" />
+    <entry file="file://$PROJECT_DIR$/local/php_interface/init.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
+          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/class/CatalogEventHandler.php" />
+    <entry file="file://$PROJECT_DIR$/local/dev/getAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/integration/location.php" />
+    <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/.description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/.parameters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/.parameters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/.description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/_types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/templates/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skillbox/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/menu/main_top/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/dev/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="18" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.basket.basket.line/basket_link/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.basket.basket.line/basket_link/small_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.basket.basket.line/basket_link/top_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="145" column="58" lean-forward="true" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="58" />
-          <folding>
-            <element signature="n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/local/templates/shopselle/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="179" column="20" lean-forward="false" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
+        <state relative-caret-position="501">
+          <caret line="193" column="42" lean-forward="false" selection-start-line="193" selection-start-column="42" selection-end-line="193" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/cidr_optim.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2403975">
+          <caret line="160265" column="61" lean-forward="false" selection-start-line="160265" selection-start-column="61" selection-end-line="160265" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/cities.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6105">
+          <caret line="407" column="83" lean-forward="false" selection-start-line="407" selection-start-column="80" selection-end-line="407" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="66" column="5" lean-forward="false" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/load-cities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>

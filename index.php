@@ -1,4 +1,5 @@
 <?
+define('SKILLBOX_SKIP_BREADCRUMPS', true);
 require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
 $APPLICATION->SetTitle("Интернет-магазин \"Одежда\"");
 ?>
