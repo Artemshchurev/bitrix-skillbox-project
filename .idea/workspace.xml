@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="096d569d-6d23-4c21-8c47-8dcecc16658e" name="Default" comment="StartProject">
-      <change beforePath="" afterPath="$PROJECT_DIR$/load-cities.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/scripts/cidr_optim.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scripts/cities.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scripts/load-cities.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,18 +29,8 @@
       <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="66" column="5" lean-forward="false" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+            <state relative-caret-position="480">
+              <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -53,8 +39,8 @@
       <file leaf-file-name="load-cities.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/load-cities.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="120">
+              <caret line="8" column="52" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -71,9 +57,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>quantity</find>
-      <find>arrFilter</find>
-      <find>code</find>
       <find>уже</find>
       <find>банковс</find>
       <find>de</find>
@@ -101,6 +84,9 @@
       <find>2988460511</find>
       <find>3278942835</find>
       <find>3656662463</find>
+      <find>Bitrix\Highloadblock\HighloadBlockTable::</find>
+      <find>Bitrix\Highloadblock\HighloadBlockTable::</find>
+      <find>Ваш город</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,13 +139,13 @@
         <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo.locator/templates/.default/template.php" />
         <option value="$PROJECT_DIR$/local/templates/shopselle/header.php" />
         <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/cidr_optim.txt" />
-        <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php" />
         <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/class.php" />
         <option value="$PROJECT_DIR$/scripts/load-cities.php" />
         <option value="$PROJECT_DIR$/scripts/cidr_optim.txt" />
         <option value="$PROJECT_DIR$/scripts/leave.txt" />
         <option value="$PROJECT_DIR$/scripts/cities.txt" />
         <option value="$PROJECT_DIR$/load-cities.php" />
+        <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php" />
       </list>
     </option>
   </component>
@@ -234,6 +220,72 @@
             <path>
               <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
               <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="artem.skillbox" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="artem.skillbox" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="geo_locator" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="artem.skillbox" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="geo_locator" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="artem.skillbox" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="geo_locator" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php_interface" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php_interface" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="me" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php_interface" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="me" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="class" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -362,7 +414,7 @@
       <workItem from="1552390243628" duration="1534000" />
       <workItem from="1552824314542" duration="305000" />
       <workItem from="1552985600623" duration="354000" />
-      <workItem from="1553297948087" duration="8164000" />
+      <workItem from="1553297948087" duration="10918000" />
     </task>
     <task id="LOCAL-00001" summary="StartProject">
       <created>1527384608946</created>
@@ -375,7 +427,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161533000" />
+    <option name="totallyTimeSpent" value="164287000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,9 +445,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21160822" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15235792" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21644498" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19830714" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39661428" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23819743" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1695279" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -458,21 +510,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/catalog_new/calling components" />
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.section/main/result_modifier.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.section/main/script.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/constant.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -769,18 +806,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/local/php_interface/me/class/BitrixHBFilling.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/php_interface/me/autoloadBxClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/php_interface/me/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/load-cities.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        <state relative-caret-position="120">
+          <caret line="8" column="52" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="480">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
           <folding />
         </state>
       </provider>
