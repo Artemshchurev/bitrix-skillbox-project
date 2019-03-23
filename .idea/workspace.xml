@@ -2,38 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="096d569d-6d23-4c21-8c47-8dcecc16658e" name="Default" comment="StartProject">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/catalog_new/detail.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/catalog_new/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lk/personal/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/.description.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/.parameters.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/class.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/templates/.default/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/.description.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/.parameters.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/class.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/templates/.default/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/main.profile/personal_page/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order_2/script.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order_2/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation/skillbox/lang/en/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation/skillbox/lang/ru/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation/skillbox/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/skillbox/order/index.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/load-cities.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="$PROJECT_DIR$/local/dev/index.php" afterPath="$PROJECT_DIR$/local/dev/index.php" />
-      <change beforePath="$PROJECT_DIR$/local/html/index.html" afterPath="$PROJECT_DIR$/local/html/index.html" />
-      <change beforePath="$PROJECT_DIR$/local/php_interface/init.php" afterPath="$PROJECT_DIR$/local/php_interface/init.php" />
-      <change beforePath="$PROJECT_DIR$/local/php_interface/skillbox/autoloadProjectClass.php" afterPath="$PROJECT_DIR$/local/php_interface/skillbox/autoloadProjectClass.php" />
-      <change beforePath="$PROJECT_DIR$/local/php_interface/skillbox/class/Catalog.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/local/php_interface/skillbox/constant.php" afterPath="$PROJECT_DIR$/local/php_interface/skillbox/constant.php" />
-      <change beforePath="$PROJECT_DIR$/local/templates/shopselle/footer.php" afterPath="$PROJECT_DIR$/local/templates/shopselle/footer.php" />
-      <change beforePath="$PROJECT_DIR$/local/templates/shopselle/header.php" afterPath="$PROJECT_DIR$/local/templates/shopselle/header.php" />
-      <change beforePath="$PROJECT_DIR$/skillbox/index.php" afterPath="$PROJECT_DIR$/skillbox/index.php" />
-      <change beforePath="$PROJECT_DIR$/urlrewrite.php" afterPath="$PROJECT_DIR$/urlrewrite.php" />
+      <change beforePath="$PROJECT_DIR$/scripts/cidr_optim.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scripts/cities.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scripts/load-cities.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,7 +30,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -77,31 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="load-cities.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/load-cities.php">
+      <file leaf-file-name="load-cities.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/load-cities.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cidr_optim.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/cidr_optim.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2403975">
-              <caret line="160265" column="61" lean-forward="false" selection-start-line="160265" selection-start-column="61" selection-end-line="160265" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cities.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/cities.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6105">
-              <caret line="407" column="83" lean-forward="false" selection-start-line="407" selection-start-column="80" selection-end-line="407" selection-end-column="83" />
+            <state relative-caret-position="270">
+              <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -118,13 +71,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>PRODUCTS_QTY</find>
-      <find>$sortByParam</find>
-      <find>btn btn-default</find>
-      <find>basket</find>
-      <find>buy</find>
-      <find>HIDE_S</find>
-      <find>img</find>
       <find>quantity</find>
       <find>arrFilter</find>
       <find>code</find>
@@ -148,6 +94,13 @@
       <find>794</find>
       <find>3650506</find>
       <find>2988482828</find>
+      <find>prolog_</find>
+      <find>1346886439</find>
+      <find>1422439807</find>
+      <find>1580088889</find>
+      <find>2988460511</find>
+      <find>3278942835</find>
+      <find>3656662463</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,10 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/local/php_interface/me/autoloadBxClass.php" />
-        <option value="$PROJECT_DIR$/local/php_interface/me/class/BitrixHBFilling.php" />
-        <option value="$PROJECT_DIR$/local/dev/debug.php" />
-        <option value="$PROJECT_DIR$/.mytop.menu.php" />
         <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/menu/main_top/template.php" />
         <option value="&lt;88e23d15-31f0-4551-a846-67e276ed4206&gt;/local/templates/shopselle/header.php" />
         <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.basket.basket.line/basket_link/top_template.php" />
@@ -207,6 +156,10 @@
         <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php" />
         <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/class.php" />
         <option value="$PROJECT_DIR$/scripts/load-cities.php" />
+        <option value="$PROJECT_DIR$/scripts/cidr_optim.txt" />
+        <option value="$PROJECT_DIR$/scripts/leave.txt" />
+        <option value="$PROJECT_DIR$/scripts/cities.txt" />
+        <option value="$PROJECT_DIR$/load-cities.php" />
       </list>
     </option>
   </component>
@@ -282,37 +235,6 @@
               <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
               <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="artem.skillbox" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="artem.skillbox" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="geo_locator" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skillbox_bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="scripts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -339,6 +261,7 @@
       <recent name="$PROJECT_DIR$/local/templates/shopselle/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/scripts" />
       <recent name="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation" />
       <recent name="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview" />
@@ -439,7 +362,7 @@
       <workItem from="1552390243628" duration="1534000" />
       <workItem from="1552824314542" duration="305000" />
       <workItem from="1552985600623" duration="354000" />
-      <workItem from="1553297948087" duration="491000" />
+      <workItem from="1553297948087" duration="8164000" />
     </task>
     <task id="LOCAL-00001" summary="StartProject">
       <created>1527384608946</created>
@@ -452,7 +375,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153860000" />
+    <option name="totallyTimeSpent" value="161533000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -469,14 +392,15 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21160822" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21160822" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15235792" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19830714" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26609442" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25035766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23819743" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1695279" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -485,7 +409,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -535,13 +458,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/local/dev/debug.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="74" column="10" lean-forward="true" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog_new/calling components" />
     <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/catalog.section/main/result_modifier.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -821,22 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/cidr_optim.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2403975">
-          <caret line="160265" column="61" lean-forward="false" selection-start-line="160265" selection-start-column="61" selection-end-line="160265" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/cities.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6105">
-          <caret line="407" column="83" lean-forward="false" selection-start-line="407" selection-start-column="80" selection-end-line="407" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -845,18 +745,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php">
+    <entry file="file://$PROJECT_DIR$/scripts/leave.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="745">
+          <caret line="261121" column="0" lean-forward="true" selection-start-line="261121" selection-start-column="0" selection-end-line="261121" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/load-cities.php">
+    <entry file="file://$PROJECT_DIR$/scripts/cidr_optim.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/cities.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load-cities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/components/artem.skillbox/geo_locator/templates/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
