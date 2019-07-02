@@ -7,6 +7,13 @@
 
 $component = $this->getComponent();
 $arParams = $component->applyTemplateModifications();
+if (!empty($_COOKIE['CITY'])) {
+    $arResult['IPROPERTY_VALUES']['SECTION_META_TITLE'] = str_replace(
+        '#CITY#',
+    $_COOKIE['CITY'],
+        $arResult['IPROPERTY_VALUES']['SECTION_META_TITLE']
+    );
+}
 
 if (!$arResult['NAME']) {
     $res = CIBlock::GetByID( $arResult['IBLOCK_ID']);

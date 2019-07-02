@@ -36,7 +36,10 @@ if (CModule::IncludeModule('highloadblock')) {
 
             $cityResult = $rsData->Fetch();
             if($cityResult) {
-                $cityDetectionString = 'Ваша город: ' . $cityResult['UF_CITY_NAME'];
+                $cityDetectionString = 'Ваш город: ' . $cityResult['UF_CITY_NAME'];
+                if (empty($_COOKIE['CITY'])) {
+                    setcookie('CITY', $cityResult['UF_CITY_NAME'], time() + 3600 * 24 * 31);
+                }
             } else {
                 $cityDetectionString = 'Ваша страна ' . $ipResult['UF_COUNTRY_ALIAS'];
             }
