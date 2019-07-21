@@ -46,3 +46,18 @@ require_once(__DIR__ . '/skillbox/autoloadHighLoadIBlock.php');
 
 #автоподключение классов проекта. Обычно такие пишут для облегчения повторяющихся операций
 require_once(__DIR__ . '/skillbox/autoloadProjectClass.php');
+
+$eventManager = \Bitrix\Main\EventManager::getInstance();
+$eventManager->addEventHandler('sale', 'onSaleDeliveryHandlersClassNamesBuildList', 'addCustomDeliveryServices');
+
+function addCustomDeliveryServices(\Bitrix\Main\Event $event)
+{
+    $result = new \Bitrix\Main\EventResult(
+        \Bitrix\Main\EventResult::SUCCESS,
+        array(
+            '\Sale\Handlers\Delivery\CustomHandler' => '/local/php_interface/include/sale_delivery/custom/handler.php'
+        )
+    );
+
+    return $result;
+}

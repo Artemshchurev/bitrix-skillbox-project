@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="096d569d-6d23-4c21-8c47-8dcecc16658e" name="Default" comment="StartProject">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/php_interface/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/php_interface/init.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,19 +34,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/integration/lesson10/locations_loader.php">
+        <entry file="file://$PROJECT_DIR$/local/php_interface/init.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="427">
+              <caret line="54" column="39" lean-forward="true" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/local/php_interface/init.php">
+        <entry file="file://$PROJECT_DIR$/local/php_interface/include/sale_delivery/custom/handler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="426">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -61,7 +62,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>3650506751794</find>
       <find>RU</find>
       <find>RU\s+794</find>
       <find>3650506632</find>
@@ -91,6 +91,7 @@
       <find>ПСКОВСКАЯ ОБЛ</find>
       <find>СМОЛЕНСКАЯ ОБЛ</find>
       <find>КРАСНОДАРСКИЙ КРА</find>
+      <find>CustomHandler</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -102,11 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/.description.php" />
-        <option value="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/.parameters.php" />
-        <option value="$PROJECT_DIR$/local/templates/shopselle/footer.php" />
-        <option value="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/class.php" />
-        <option value="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview/templates/.default/template.php" />
         <option value="$PROJECT_DIR$/local/html/index.html" />
         <option value="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/class.php" />
         <option value="$PROJECT_DIR$/local/components/artem.skillbox/main_page.slider/templates/.default/template.php" />
@@ -136,7 +132,6 @@
         <option value="$PROJECT_DIR$/lk/personal/index.php" />
         <option value="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/main.profile/personal_page/template.php" />
         <option value="$PROJECT_DIR$/local/php_interface/skillbox/class/Catalog.php" />
-        <option value="$PROJECT_DIR$/local/php_interface/init.php" />
         <option value="$PROJECT_DIR$/local/integration/location.php" />
         <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo.locator/class.php" />
         <option value="$PROJECT_DIR$/local/components/artem.skillbox/geo.locator/templates/.default/template.php" />
@@ -153,6 +148,12 @@
         <option value="$PROJECT_DIR$/local/integration/lesson10/data.csv" />
         <option value="$PROJECT_DIR$/local/integration/lesson10/import_db_to_csv.php" />
         <option value="$PROJECT_DIR$/local/integration/lesson10/locations_loader.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/include/sale_delivery/YetAnotherDeliveryHandler.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/include/sale_delivery/my_delivery/hadler.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/sale_delivery/YetAnotherDeliveryHandler.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/include/sale_delivery/custom/hadler.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/init.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/include/sale_delivery/custom/handler.php" />
       </list>
     </option>
   </component>
@@ -203,6 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,20 +221,43 @@
               <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
               <item name="skillbox_bitrix" type="462c0819:PsiDirectoryNode" />
               <item name="local" type="462c0819:PsiDirectoryNode" />
-              <item name="integration" type="462c0819:PsiDirectoryNode" />
+              <item name="php_interface" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
               <item name="skillbox_bitrix" type="462c0819:PsiDirectoryNode" />
               <item name="local" type="462c0819:PsiDirectoryNode" />
-              <item name="integration" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson10" type="462c0819:PsiDirectoryNode" />
+              <item name="php_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="php_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="sale_delivery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="php_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="sale_delivery" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skillbox_bitrix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skillbox_bitrix" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="php_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="skillbox" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,19 +272,19 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/local/dev/lesson10" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/scripts" />
-      <recent name="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation" />
-      <recent name="$PROJECT_DIR$/local/components/artem.skillbox/bysteps.preview" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/local/integration/lesson10" />
       <recent name="$PROJECT_DIR$/local/components/artem.skillbox" />
       <recent name="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax" />
       <recent name="$PROJECT_DIR$/local/templates/shopselle" />
       <recent name="$PROJECT_DIR$/local/templates/shopselle/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/local/php_interface" />
+      <recent name="$PROJECT_DIR$/local/dev/lesson10" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/local/templates/shopselle/components/bitrix/system.pagenavigation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -368,6 +393,10 @@
       <workItem from="1563363656962" duration="4733000" />
       <workItem from="1563447098045" duration="6449000" />
       <workItem from="1563545145883" duration="90000" />
+      <workItem from="1563669635735" duration="1556000" />
+      <workItem from="1563691556386" duration="29000" />
+      <workItem from="1563707254641" duration="217000" />
+      <workItem from="1563712583110" duration="3021000" />
     </task>
     <task id="LOCAL-00001" summary="StartProject">
       <created>1527384608946</created>
@@ -380,7 +409,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194967000" />
+    <option name="totallyTimeSpent" value="199966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -395,7 +424,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20243205" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2167382" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="File Transfer" order="0" visible="true" weight="0.17590362" />
@@ -469,27 +498,6 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order_2/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="84" column="18" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/shopselle/components/bitrix/sale.order.ajax/custom_order_2/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="47" column="13" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/autoloadProjectClass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/autoloadHighLoadIBlock.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -677,10 +685,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/local/classes/YetAnotherDeliveryHandler.php" />
+    <entry file="file://$PROJECT_DIR$/local/php_interface/skillbox/autoloadProjectClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/php_interface/sale_delivery/YetAnotherDeliveryHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="32" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/local/php_interface/init.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="427">
+          <caret line="54" column="39" lean-forward="true" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/php_interface/include/sale_delivery/custom/handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
