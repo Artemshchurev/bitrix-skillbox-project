@@ -34,11 +34,10 @@ class CustomHandler extends Base
             $location = \Bitrix\Sale\Location\LocationTable::getByCode($locationCode, array(
                 'select' => array('*', 'NAME_RU' => 'NAME.NAME')
             ))->fetch();
-
-            if (count($location['NAME_RU']) % 2 === 0) {
+            if (mb_strlen($location['NAME_RU']) % 2 === 0) {
                 $result->setDeliveryPrice(500);
             } else {
-                $result->setDeliveryPrice(300);
+                $result->setDeliveryPrice(800);
             }
         }
 
