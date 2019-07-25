@@ -61,3 +61,13 @@ function addCustomDeliveryServices(\Bitrix\Main\Event $event)
 
     return $result;
 }
+
+function launchMakeOrderPageEvent()
+{
+    CEvent::Send("MAKE_ORDER_PAGE_EVENT", 's1', array(
+        'RANDOM_STR' => substr(md5(time()), 0, 6),
+        'TIME_RUN' => date('H:i:s d-m-Y'),
+    ));
+
+    return "launchMakeOrderPageEvent();";
+}
