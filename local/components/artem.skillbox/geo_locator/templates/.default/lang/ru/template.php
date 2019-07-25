@@ -1,3 +1,4 @@
-<?php
+<?
 $MESS['COMPONENT_GEO_LOCATION_YOUR_CITY'] = 'Ваш город';
 $MESS['COMPONENT_GEO_LOCATION_YOUR_COUNTRY'] = 'Ваша страна';
+?>

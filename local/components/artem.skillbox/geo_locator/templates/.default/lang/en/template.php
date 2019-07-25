@@ -1,3 +1,4 @@
-<?php
+<?
 $MESS['COMPONENT_GEO_LOCATION_YOUR_CITY'] = 'Your city';
 $MESS['COMPONENT_GEO_LOCATION_YOUR_COUNTRY'] = 'Your country';
+?>

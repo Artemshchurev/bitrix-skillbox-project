@@ -1,6 +1,7 @@
 <?
 define("HIDE_SIDEBAR", true);
 require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
+require($_SERVER["DOCUMENT_ROOT"] . "/personal/order/make/event_email_sender.php");
 $APPLICATION->SetTitle("Заказы");
 ?><? $APPLICATION->IncludeComponent("bitrix:sale.order.ajax", "", array(
     "PAY_FROM_ACCOUNT" => "Y",
